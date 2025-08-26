@@ -5,8 +5,8 @@
 
 ### 💼 Work Experience  
 - 🔭 **Currently working at B2B Solver** as a Laravel Developer  
-- 💻 **Worked at Lets Know International Educational Consultancy** as a Web Developer  
-- 🖥️ **Started my career at 2A IT Limited** as a Junior Software Engineer 
+- 💻 **Worked at Lets Know International Educational Consultancy** as a Full Stack Web Developer  
+- 🖥️ **Started my career at 2A IT Limited** as a Junior Software Engineer  
 
 ---
 
