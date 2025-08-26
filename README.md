@@ -14,14 +14,6 @@
 
 #### 🛒 Bideshibazar *(Jan. 2025 – May 2025)*  
 **Tech Stack:** Laravel, HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery  
-- User-friendly interface with responsive design  
-- Secure payment gateway integration  
-- Real-time order tracking & customer notifications  
-- Admin dashboard for managing users, orders & products  
-- Discount, coupon, and promotional campaign features  
-- Customer registration, login & profile management  
-- Analytics & reporting for sales and traffic insights  
-
 ---
 
 #### 🏛️ Pouroshova Software *(Feb. 2024 – Dec. 2024)*  
@@ -58,10 +50,6 @@
 
 #### 👕 Fashion-Apparel *(Oct. 2023 – Nov. 2023)*  
 **Tech Stack:** HTML, CSS, Tailwind, React, MongoDB, Node.js  
-- Brand-based product display with redirection  
-- Secure routes with authentication  
-- Flexible and scalable architecture  
-- Saves time & effort with automation  
 
 ---
 
@@ -75,11 +63,7 @@
 ---
 
 #### 🛍️ E-commerce Website *(Jan. 2022 – Aug. 2022)*  
-**Tech Stack:** HTML, CSS, Bootstrap, JavaScript, MySQL, Laravel  
-- Data security & retrieval system  
-- Expanded customer reach (no geographic limits)  
-- 24/7 buying & selling  
-- Cost-effective digital solution  
+**Tech Stack:** HTML, CSS, Bootstrap, JavaScript, MySQL, Laravel   
 
 ---
 
@@ -88,18 +72,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,tailwind,jquery,git,github,react,nodejs,mongodb,firebase,vscode,linux" />
 </p>
 
----
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahfujurRahman6793&show_icons=true&theme=radical" alt="stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahfujurRahman6793&theme=radical" alt="streak" />
-</p>  
-
----
 
 ### 🌐 Connect with me  
 <p align="left">
