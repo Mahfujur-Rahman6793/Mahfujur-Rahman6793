@@ -12,8 +12,9 @@
 
 ### 🚀 Major Projects  
 
-#### 🛒 Bideshibazar *(Jan. 2025 – May 2025)*  
-**Tech Stack:** Laravel, HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery  
+#### 🛒 Bideshibazar *(Jan. 2025 – May. 2025)*  
+##### 🔧 Tech Stack: Laravel, HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery  
+
 ---
 
 #### 🏛️ Pouroshova Software *(Feb. 2024 – Dec. 2024)*  
