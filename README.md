@@ -6,11 +6,15 @@
 ### 💼 Work Experience  
 - 🔭 **Currently working at B2B Solver** as a Laravel Developer  
 - 💻 **Worked at Lets Know International Educational Consultancy** as a Full Stack Web Developer  
-- 🖥️ **Started my career at 2A IT Limited** as a Junior Software Engineer  
+- 🖥️ **Started my career at 2A IT Limited** as a Junior Software Engineer
+- 🚀 **Completed Internship at Soft Tech Innovation Ltd. (aamarPay)** as a Laravel Developer Intern
 
 ---
 
-### 🚀 Major Projects  
+### 🚀 Major Projects 
+
+#### 🛒 ENIMV4 *(Jun. 2025 – Current)*  
+##### 🔧 Tech Stack: Laravel, HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery  
 
 #### 🛒 Bideshibazar *(Jan. 2025 – May. 2025)*  
 ##### 🔧 Tech Stack: Laravel, HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery  
