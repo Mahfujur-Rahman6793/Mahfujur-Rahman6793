@@ -5,7 +5,7 @@
 
 ### 💼 Work Experience
 
-- 🔭 **Junior Software Engineer** at **B2B Solver Ltd.** — *Present*
+- 🔭 **Software Engineer** at **B2B Solver Ltd.** — *Present*
 - 💻 **Full Stack Web Developer** at **Let's Know International Educational Agency** — *Jan. 2025 – May 2025*
 - 🖥️ **Laravel Developer** at **2A IT Ltd.** — *Feb. 2024 – Dec. 2024*
 - 🚀 **Laravel Developer Intern** at **SoftTech Innovation Ltd. (aamarPay)** — *6 Months*
